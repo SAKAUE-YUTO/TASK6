@@ -21,4 +21,5 @@
 
 
 # 見積
-[AWS Pricing Calculator.pdf](https://github.com/SAKAUE-YUTO/TASK6/files/9090905/AWS.Pricing.Calculator.pdf)
+
+![bandicam 2022-07-12 17-09-20-638](https://user-images.githubusercontent.com/105532255/178442066-7612e758-22b3-4f61-a422-c3e3e9b9a0c9.jpg)
