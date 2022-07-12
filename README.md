@@ -11,5 +11,14 @@
 だれが終了させたなどはわかるようになっている。そもそも停止できる権限を持っているUSERしかできないので、どのUSERかさえわかればそれほど情報はいらないと思う。
 最低限の時間とうはあるので、これだけあれば十分かなとは思った。
 
+# CloudWatch アラーム
+
+- メトリクス
+![bandicam 2022-07-12 15-19-33-001](https://user-images.githubusercontent.com/105532255/178441651-832812ef-d0cc-47cd-8cf1-ea0ea91d8f10.jpg)
+
+- メール
+![bandicam 2022-07-12 15-20-06-273](https://user-images.githubusercontent.com/105532255/178441733-66a69116-1aaf-4182-bf4c-c8a4dc982b32.jpg)
 
 
+# 見積
+[AWS Pricing Calculator.pdf](https://github.com/SAKAUE-YUTO/TASK6/files/9090905/AWS.Pricing.Calculator.pdf)
